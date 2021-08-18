@@ -198,3 +198,24 @@
 - [ ] Its power output can be varied to save electricity.
 - [x] Its cables are detachable.
 - [ ] It has dedicated power reserved for different computer components.
+
+#### Q23. What must you confirm before performimg a processr upgrade?
+
+- [ ] The new processor is compatible with the operating system.
+- [x] The new processor is compatible with the current motherboard.
+- [ ] The new processor is the same type as the old.
+- [ ] The new processor fits into the old processor's slot.
+
+#### Q24. What is the name of the hardware that provides a computer with network access?
+
+- [x] router.
+- [ ] NIC.
+- [ ] RJ-45.
+- [ ] BIOS.
+
+#### Q25. You notice that a program crashes at a specific time. Which tool can you use in Windows to discovery the cause?
+
+- [ ] Perfomance Monitor.
+- [x] Event Viewer.
+- [ ] Resource Monitor.
+- [ ] Task Manager.
