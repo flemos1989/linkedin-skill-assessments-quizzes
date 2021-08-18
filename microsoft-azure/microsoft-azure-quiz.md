@@ -407,3 +407,11 @@
 - [ ] `custom domains`
 
 As described in [Microsoft Docs: Hosting a Restful-API with CORS in AAS](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-rest-api): The Answer should be CORS (Cross Origin Ressource Sharing)
+
+
+#### Q54. As a deployment method in Azure, Powershell is not_____.
+
+- [ ] `none of these answers`
+- [ ] `declarative`
+- [x] `idempotent`
+- [ ] `idempotent or declarative`
